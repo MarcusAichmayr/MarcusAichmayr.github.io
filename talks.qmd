@@ -1,0 +1,7 @@
+---
+title: "Talks"
+---
+
+Here is a list of conference talks that I gave:
+
+* June 2025, *Computing Elementary Vectors over Integral Domains*, Fachtagung der Computeralgebra, Leipzig, Germany. [pdf](talks/CA2025.pdf)
