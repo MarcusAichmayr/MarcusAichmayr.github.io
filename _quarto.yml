@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - sign_vector_conditions/
 
 website:
   # title: "website"
