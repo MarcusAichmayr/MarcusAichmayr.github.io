@@ -1,8 +1,8 @@
 ---
-title: "Talks"
+title: "Talks & Posters"
 ---
 
-Here is a list of conference talks that I gave:
+### Talks
 
 * *SignVectors: a SageMath Package for Oriented Matroids*,
   ISSAC'26, Oldenburg, Germany, July 2026.
@@ -28,3 +28,11 @@ Here is a list of conference talks that I gave:
 * *Certifying solvability of linear inequality systems using elementary vectors*,
   Fachtagung der Computeralgebra'23, Hannover, Germany, June 2023.
   [handout](talks/2023Fachtagung.pdf)
+
+### Posters
+
+* *Computing Sign Vector Conditions for Complex-Balanced Equilibria of Chemical Reaction Networks*,
+  SCDDE'26, Hagenberg, Austria, July 2026.
+  [poster](talks/2026SCDDE.pdf)
+* *Computing Sign Vector Conditions for Complex-Balanced Equilibria of Chemical Reaction Networks*,
+  DART'24, Kassel, Germany, April 2024.
