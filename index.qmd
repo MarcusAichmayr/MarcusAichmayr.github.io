@@ -2,4 +2,6 @@
 title: "Marcus S. Aichmayr"
 ---
 
-I am a postdoctoral researcher in mathematics at the University of Kassel, Germany.
+WIP
+
+<!-- I am a postdoctoral researcher in mathematics at the University of Kassel, Germany. -->
