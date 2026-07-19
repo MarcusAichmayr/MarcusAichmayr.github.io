@@ -31,5 +31,8 @@ format:
       dark: superhero
       # darkly, superhero, solar, slate
       light: cosmo
-    css: styles.css
+    css:
+    - styles.css
+    - _extensions/schochastics/academicons/assets/css/size.css
+    - _extensions/schochastics/academicons/assets/css/all.css
     toc: true
