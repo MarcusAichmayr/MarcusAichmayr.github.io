@@ -1,7 +1,24 @@
 ---
-title: "Marcus S. Aichmayr"
+title: Marcus S. Aichmayr
+format: html
+image: images/profile.png
+about:
+  template: broadside
+  # template: solana
+toc: false
 ---
 
 WIP
 
 <!-- I am a postdoctoral researcher in mathematics at the University of Kassel, Germany. -->
+
+### Research interests
+
+* (Oriented) matroid theory
+* Linear inequality systems
+* Chemical reaction networks
+
+### Programming
+
+* Python
+* SageMath

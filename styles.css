@@ -1,1 +1,9 @@
 /* css styles */
+/* academicons */
+.navbar .ai {
+  font-size: 1.15rem;
+  vertical-align: -0.1em;
+}
+/* bootstrap-icons */
+.navbar .bi {
+}

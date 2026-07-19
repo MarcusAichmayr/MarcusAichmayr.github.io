@@ -4,22 +4,27 @@ project:
     - sign_vector_conditions/**
 
 website:
+  # favicon: images/favicon.ico
   # title: "website"
   navbar:
     left:
       - href: index.qmd
         text: Home
+        # icon: house
+      - publications.qmd
       - talks.qmd
       - software.qmd
       # - about.qmd
 
     right:
+      - icon: envelope
+        # text: Email
+        href: mailto:aichmayr@mathematik.uni-kassel.de
       - icon: github
+        # text: GitHub
         href: https://github.com/MarcusAichmayr
       - text: '<i class="ai ai-orcid"></i>'
         href: https://orcid.org/0009-0008-8362-2644
-      - icon: envelope
-        href: mailto:aichmayr@mathematik.uni-kassel.de
       - text: '<i class="ai ai-researchgate"></i>'
         href: https://www.researchgate.net/profile/Marcus-Aichmayr
       - icon: file-earmark-person
@@ -28,9 +33,10 @@ website:
 format:
   html:
     theme:
-      dark: superhero
       # darkly, superhero, solar, slate
-      light: cosmo
+      light: flatly
+      dark: darkly
+    respect-user-color-scheme: true
     css:
     - styles.css
     - _extensions/schochastics/academicons/assets/css/size.css
