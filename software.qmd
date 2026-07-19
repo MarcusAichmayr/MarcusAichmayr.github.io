@@ -2,4 +2,28 @@
 title: "Software"
 ---
 
-I develop several packages for SageMath, which are available on [GitHub](https://github.com/MarcusAichmayr).
+## SageMath packages
+
+I develop several open-source packages for SageMath.
+All my packages follow an objective-oriented design and apply caching and lazy evaluation to improve performance.
+The documentation is generated automatically from the docstrings and the many examples are doctested.
+
+### [ElementaryVectors](https://github.com/MarcusAichmayr/elementary_vectors)
+
+A package for the computation of circuits and cocircuits of a matrix.
+
+### [SignVectors](https://github.com/MarcusAichmayr/sign_vectors)
+
+This package provides classes for sign vectors and oriented matroids.
+
+### [CertLin](https://github.com/MarcusAichmayr/certlin)
+
+A package for certifying solvability and unsolvability of linear inequality systems using circuits.
+
+### [SignCRN](https://github.com/MarcusAichmayr/sign_crn)
+
+A package for computing sign vector conditions for the existence and uniqueness of equilibria of chemical reaction networks with (generalized) mass-action kinetics.
+
+### [Sign and Elementary Vector Applications](https://github.com/MarcusAichmayr/sign_and_elementary_vector_applications)
+
+This repository provides examples and applications of the SageMath packages `ElementaryVectors`, `SignVectors`, `CertLin`, and `SignCRN`.
