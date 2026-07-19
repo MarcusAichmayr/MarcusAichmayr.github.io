@@ -3,7 +3,7 @@ title: Marcus S. Aichmayr
 format: html
 image: images/profile.png
 about:
-  template: broadside
+  template: solana
   # template: solana
 toc: false
 ---
