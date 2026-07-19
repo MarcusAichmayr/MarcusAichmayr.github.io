@@ -11,19 +11,19 @@ website:
         text: Home
       - talks.qmd
       - software.qmd
-      - text: CV TODO
-        href: files/cv.pdf
       # - about.qmd
 
     right:
       - icon: github
         href: https://github.com/MarcusAichmayr
-      - icon: orcid
+      - text: '<i class="ai ai-orcid"></i>'
         href: https://orcid.org/0009-0008-8362-2644
       - icon: envelope
         href: mailto:aichmayr@mathematik.uni-kassel.de
-      - icon: researchgate
+      - text: '<i class="ai ai-researchgate"></i>'
         href: https://www.researchgate.net/profile/Marcus-Aichmayr
+      - icon: file-earmark-person
+        href: files/cv.pdf
 
 format:
   html:
@@ -33,6 +33,3 @@ format:
       light: cosmo
     css: styles.css
     toc: true
-
-
-
