@@ -1,0 +1,19 @@
+---
+title: "Publications"
+---
+
+### Submitted/Preprints
+
+* (with G. Regensburger) Computing Circuits over Integral Domains, (2026), 14 pages.
+* SignVectors: a SageMath Package for Oriented Matroids. 2026
+
+### Reviewed
+
+* (with S. Müller und G. Regensburger) A SageMath Package for Elementary and Sign Vectors with Applications to Chemical Reaction Networks, Proceedings of ICMS 2024 (eds. K. Buzzard, A. Dickenstein, B. Eick, A. Leykin, Y. Ren), Lecture Notes in Comput. Sci. 14749, Springer, Cham, pp. 155-164, 2024. [DOI](https://doi.org/10.1007/978-3-031-64529-7_17) | [arXiv](https://arxiv.org/abs/2407.12660)
+
+### Theses
+
+* Computing Circuits and Sign Vectors
+with Applications to Linear Inequality
+Systems and Reaction Networks. PhD thesis, University of Kassel, Germany, 2026. [pdf TODO]
+* Computing with sign vectors in SageMath and applications to exponential maps. Master's thesis, Johannes Kepler University Linz, Austria, 2021. [pdf](publications/2021thesis_m.pdf)
