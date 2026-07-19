@@ -4,7 +4,8 @@ project:
     - sign_vector_conditions/**
 
 website:
-  # favicon: images/favicon.ico
+  favicon: images/leaf-fill.svg
+  # favicon: images/puzzle-fill.svg
   # title: "website"
   navbar:
     left:
@@ -27,8 +28,8 @@ website:
         href: https://orcid.org/0009-0008-8362-2644
       - text: '<i class="ai ai-researchgate"></i>'
         href: https://www.researchgate.net/profile/Marcus-Aichmayr
-      - icon: file-earmark-person
-        href: files/cv.pdf
+      # - icon: file-earmark-person
+      #   href: files/cv.pdf
 
 format:
   html:
