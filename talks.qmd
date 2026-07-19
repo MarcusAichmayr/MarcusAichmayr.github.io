@@ -4,12 +4,12 @@ title: "Talks"
 
 Here is a list of conference talks that I gave:
 
-* *TODO SignVectors: a SageMath Package for Oriented Matroids*,
+* *SignVectors: a SageMath Package for Oriented Matroids*,
   ISSAC'26, Oldenburg, Germany, July 2026.
   [handout](talks/2026ISSAC.pdf)
-* *TODO PhD defense*,
+* *PhD defense*,
   University of Kassel, Germany, July 2026.
-  [handout](talks/2026defense.pdf)
+  [handout](talks/2026disputation.pdf)
 * *Reaction networks with (generalized) mass-action kinetics: Sign vector conditions for the existence of a unique general equilibrium*,
   ACA'25, Heraklion, Crete/Greece, July 2025.
   [handout](talks/2025ACA.pdf)
@@ -25,6 +25,6 @@ Here is a list of conference talks that I gave:
 * *Computing sign vector conditions for existence and uniqueness of equilibria of chemical reaction networks*,
   ACA'23, Warsaw, Poland, July 2023.
   [handout](talks/2023ACA.pdf)
-* *TODO Certifying solvability of linear inequality systems using elementary vectors*,
+* *Certifying solvability of linear inequality systems using elementary vectors*,
   Fachtagung der Computeralgebra'23, Hannover, Germany, June 2023.
   [handout](talks/2023Fachtagung.pdf)
