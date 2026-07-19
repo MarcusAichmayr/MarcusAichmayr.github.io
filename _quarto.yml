@@ -15,6 +15,16 @@ website:
         href: files/cv.pdf
       # - about.qmd
 
+    right:
+      - icon: github
+        href: https://github.com/MarcusAichmayr
+      - icon: orcid
+        href: https://orcid.org/0009-0008-8362-2644
+      - icon: envelope
+        href: mailto:aichmayr@mathematik.uni-kassel.de
+      - icon: researchgate
+        href: https://www.researchgate.net/profile/Marcus-Aichmayr
+
 format:
   html:
     theme:
