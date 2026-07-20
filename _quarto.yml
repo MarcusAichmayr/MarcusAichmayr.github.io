@@ -5,6 +5,7 @@ project:
 
 website:
   favicon: images/leaf-fill.svg
+  # favicon: images/ghost.svg
   # favicon: images/puzzle-fill.svg
   # title: "website"
   navbar:
