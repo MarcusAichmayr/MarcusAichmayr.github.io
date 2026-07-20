@@ -7,7 +7,7 @@ about:
 toc: false
 ---
 
-I just defended my PhD in mathematics at the University of Kassel, Germany.
+I just defended my PhD thesis in mathematics at the University of Kassel, Germany.
 
 My research focuses on circuit computation, oriented matroid theory, and applications to linear inequality systems and chemical reaction networks.
 I'm also developing packages for SageMath.

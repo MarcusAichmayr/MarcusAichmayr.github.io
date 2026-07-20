@@ -11,11 +11,12 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
         # icon: house
+        text: Home
       - publications.qmd
       - talks.qmd
       - software.qmd
+      # - other_project.qmd
       # - about.qmd
 
     right:
