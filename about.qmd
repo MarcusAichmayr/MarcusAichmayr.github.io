@@ -2,4 +2,5 @@
 title: "About"
 ---
 
-About this site
+Aside from math, I'm interested in board game design, music, programming, and sports.
+I'm a huge fan of open source software such as Linux, LaTeX, SageMath, Python, Krita, and Godot.
