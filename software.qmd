@@ -8,22 +8,29 @@ I develop several open-source packages for SageMath.
 All my packages follow an objective-oriented design and apply caching and lazy evaluation to improve performance.
 The documentation is generated automatically from the docstrings and the many examples are doctested.
 
-### [ElementaryVectors](https://github.com/MarcusAichmayr/elementary_vectors)
+The packages are available on [GitHub](https://github.com/MarcusAichmayr), [PyPI](https://pypi.org/user/MarcusSA/) and [Zenodo](https://zenodo.org/).
+
+### ElementaryVectors
 
 A package for the computation of circuits and cocircuits of a matrix.
+<!-- (https://github.com/MarcusAichmayr/elementary_vectors) -->
 
-### [SignVectors](https://github.com/MarcusAichmayr/sign_vectors)
+### SignVectors
 
 This package provides classes for sign vectors and oriented matroids.
+<!-- (https://github.com/MarcusAichmayr/sign_vectors) -->
 
-### [CertLin](https://github.com/MarcusAichmayr/certlin)
+### CertLin
 
 A package for certifying solvability and unsolvability of linear inequality systems using circuits.
+<!-- (https://github.com/MarcusAichmayr/certlin) -->
 
-### [SignCRN](https://github.com/MarcusAichmayr/sign_crn)
+### SignCRN
 
 A package for computing sign vector conditions for the existence and uniqueness of equilibria of chemical reaction networks with (generalized) mass-action kinetics.
+<!-- (https://github.com/MarcusAichmayr/sign_crn) -->
 
-### [Sign and Elementary Vector Applications](https://github.com/MarcusAichmayr/sign_and_elementary_vector_applications)
+### Sign and Elementary Vector Applications
 
-This repository provides examples and applications of the SageMath packages `ElementaryVectors`, `SignVectors`, `CertLin`, and `SignCRN`.
+This [repository](https://github.com/MarcusAichmayr/sign_and_elementary_vector_applications)
+provides examples and applications of the SageMath packages above.

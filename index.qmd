@@ -23,3 +23,7 @@ WIP
 
 * Python
 * SageMath
+
+<!-- > "If I had more time, I would have written a shorter letter." -- Blaise Pascal -->
+
+> "Coming up with complex things is easy. Coming up with simple things is hard." -- Daniel Piechnick

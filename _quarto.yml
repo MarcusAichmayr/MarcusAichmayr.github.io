@@ -20,16 +20,17 @@ website:
 
     right:
       - icon: envelope
-        # text: Email
+        text: Email
         href: mailto:aichmayr@mathematik.uni-kassel.de
       - icon: github
-        # text: GitHub
+        text: GitHub
         href: https://github.com/MarcusAichmayr
-      - text: '<i class="ai ai-orcid"></i>'
+      - text: '<i class="ai ai-orcid"></i> Orcid'
         href: https://orcid.org/0009-0008-8362-2644
-      - text: '<i class="ai ai-researchgate"></i>'
+      - text: '<i class="ai ai-researchgate"></i> ResearchGate'
         href: https://www.researchgate.net/profile/Marcus-Aichmayr
       # - icon: file-earmark-person
+      #   text: CV
       #   href: files/cv.pdf
 
 format:
