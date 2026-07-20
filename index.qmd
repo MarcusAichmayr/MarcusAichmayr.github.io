@@ -4,11 +4,13 @@ format: html
 image: images/profile.png
 about:
   template: solana
-  # template: solana
 toc: false
 ---
 
-WIP
+I just defended my PhD in mathematics at the University of Kassel, Germany.
+
+My research focuses on circuit computation, oriented matroid theory, and applications to linear inequality systems and chemical reaction networks.
+I'm also developing packages for SageMath.
 
 <!-- I am a postdoctoral researcher in mathematics at the University of Kassel, Germany. -->
 
@@ -18,11 +20,6 @@ WIP
 * (Oriented) matroid theory
 * Linear inequality systems
 * Chemical reaction networks
-
-### Programming
-
-* Python
-* SageMath
 
 <!-- > "If I had more time, I would have written a shorter letter." -- Blaise Pascal -->
 
