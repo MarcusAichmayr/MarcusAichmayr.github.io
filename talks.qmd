@@ -3,6 +3,8 @@ title: "Presentations"
 ---
 
 Here is a list of talks and posters I have given at conferences and seminars.
+For my slides, I use a minimalistic style with few sentences and dark background.
+The handouts are not meant to be self-contained.
 
 ### 2026
 
