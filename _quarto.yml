@@ -8,6 +8,7 @@ website:
   # favicon: images/ghost.svg
   # favicon: images/puzzle-fill.svg
   # title: "website"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
