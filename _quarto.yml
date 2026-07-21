@@ -4,6 +4,7 @@ project:
     - sign_vector_conditions/**
 
 website:
+  site-url: https://marcusaichmayr.github.io
   favicon: images/leaf-fill.svg
   # favicon: images/ghost.svg
   # favicon: images/puzzle-fill.svg
