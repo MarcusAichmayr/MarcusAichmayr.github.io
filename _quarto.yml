@@ -36,6 +36,9 @@ website:
 
 format:
   html:
+    description: "Research website of Marcus S. Aichmayr."
+    image: images/profile.png
+    # highlight-style: github
     theme:
       # darkly, superhero, solar, slate
       light: flatly
