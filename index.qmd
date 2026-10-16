@@ -7,7 +7,7 @@ about:
 toc: false
 ---
 
-I just defended my PhD thesis in mathematics at the University of Kassel, Germany.
+I am a postdoctoral researcher at Johannes Kepler University Linz, Austria, working at the Research Institute for Symbolic Computation (RISC).
 
 My research focuses on circuit computation, oriented matroid theory, and applications to linear inequality systems and chemical reaction networks.
 I'm also developing packages for SageMath.
