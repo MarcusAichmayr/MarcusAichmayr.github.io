@@ -24,7 +24,7 @@ website:
     right:
       - icon: envelope
         text: Email
-        href: mailto:aichmayr@mathematik.uni-kassel.de
+        href: mailto:marcus.aichmayr@risc.jku.at
       - icon: github
         text: GitHub
         href: https://github.com/MarcusAichmayr
