@@ -33,7 +33,7 @@ title: "Publications"
   *Computing Circuits and Sign Vectors with Applications to Linear Inequality Systems and Reaction Networks*.
   <br>
   PhD thesis, University of Kassel, Germany, 2026.
-  [pdf TODO]
+  [DOI](https://doi.org/10.17170/kobra-2026092312416)
 * M.S. Aichmayr
   <br>
   *Computing with sign vectors in SageMath and applications to exponential maps*.
