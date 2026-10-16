@@ -4,10 +4,12 @@ project:
     - sign_vector_conditions/**
 
 website:
+  site-url: https://marcusaichmayr.github.io
   favicon: images/leaf-fill.svg
   # favicon: images/ghost.svg
   # favicon: images/puzzle-fill.svg
   # title: "website"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -36,6 +38,9 @@ website:
 
 format:
   html:
+    description: "Research website of Marcus S. Aichmayr."
+    image: images/profile.png
+    # highlight-style: github
     theme:
       # darkly, superhero, solar, slate
       light: flatly
