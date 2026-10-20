@@ -8,6 +8,10 @@ The handouts are not meant to be self-contained.
 
 ### 2026
 
+* *Computing Circuits and Sign Vectors with Applications to Linear Inequality Systems and Reaction Networks*
+  <br>
+  RISC Forum Talk, Hagenberg, Germany, October.
+  [handout](talks/2026disputation.pdf)
 * *SignVectors: a SageMath Package for Oriented Matroids*
   <br>
   ISSAC'26, Oldenburg, Germany, July.
